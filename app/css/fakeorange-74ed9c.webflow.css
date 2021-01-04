@@ -1262,7 +1262,7 @@ ol {
   grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 
-.wrapper-http://res.cloudinary.com/dptbzzrw5-portfolio {
+.wrapper-images.first {
   position: relative;
   overflow: hidden;
   height: 85%;
@@ -1272,7 +1272,7 @@ ol {
   background-size: auto;
 }
 
-.wrapper-http://res.cloudinary.com/dptbzzrw5-portfolio.second {
+.wrapper-images.second {
   width: 85%;
   height: 100%;
   margin-top: 0px;
@@ -1280,7 +1280,7 @@ ol {
   background-position: 50% 50%;
 }
 
-.wrapper-http://res.cloudinary.com/dptbzzrw5-portfolio.third {
+.wrapper-images.third {
   width: 300px;
   height: 300px;
   margin-top: 0px;
