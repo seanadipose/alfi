@@ -149,8 +149,8 @@ ol {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.22)), to(rgba(0, 0, 0, 0.22))), url('http://res.cloudinary.com/dptbzzrw5/heroimage1.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.22), rgba(0, 0, 0, 0.22)), url('http://res.cloudinary.com/dptbzzrw5/heroimage1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.22)), to(rgba(0, 0, 0, 0.22))), url('https://res.cloudinary.com/dptbzzrw5/heroimage1.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.22), rgba(0, 0, 0, 0.22)), url('https://res.cloudinary.com/dptbzzrw5/heroimage1.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -225,8 +225,8 @@ ol {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.24)), to(rgba(0, 0, 0, 0.24))), url('http://res.cloudinary.com/dptbzzrw5/heroimage2.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.24), rgba(0, 0, 0, 0.24)), url('http://res.cloudinary.com/dptbzzrw5/heroimage2.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.24)), to(rgba(0, 0, 0, 0.24))), url('https://res.cloudinary.com/dptbzzrw5/heroimage2.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.24), rgba(0, 0, 0, 0.24)), url('https://res.cloudinary.com/dptbzzrw5/heroimage2.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-attachment: scroll, scroll;
@@ -243,8 +243,8 @@ ol {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.45)), to(rgba(0, 0, 0, 0.45))), url('http://res.cloudinary.com/dptbzzrw5/heroimage3-1.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('http://res.cloudinary.com/dptbzzrw5/heroimage3-1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.45)), to(rgba(0, 0, 0, 0.45))), url('https://res.cloudinary.com/dptbzzrw5/heroimage3-1.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('https://res.cloudinary.com/dptbzzrw5/heroimage3-1.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-attachment: scroll, scroll;
@@ -1267,7 +1267,7 @@ ol {
   overflow: hidden;
   height: 85%;
   margin-top: auto;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio.jpg');
   background-position: 0px 0px;
   background-size: auto;
 }
@@ -1276,7 +1276,7 @@ ol {
   width: 85%;
   height: 100%;
   margin-top: 0px;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfoliosx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfoliosx.jpg');
   background-position: 50% 50%;
 }
 
@@ -1284,7 +1284,7 @@ ol {
   width: 300px;
   height: 300px;
   margin-top: 0px;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfoliodx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfoliodx.jpg');
   background-position: 50% 70%;
 }
 
@@ -1296,19 +1296,19 @@ ol {
   bottom: 0%;
   width: 100%;
   height: 100%;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio1C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio1C.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .first-background-image.second {
   display: block;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio1lsx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio1lsx.jpg');
 }
 
 .first-background-image.third {
   display: block;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio1ldx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio1ldx.jpg');
 }
 
 .second-background-image {
@@ -1320,17 +1320,17 @@ ol {
   display: block;
   width: 100%;
   height: 100%;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio2C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio2C.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .second-background-image.second {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio2lsx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio2lsx.jpg');
 }
 
 .second-background-image.third {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio2ldx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio2ldx.jpg');
 }
 
 .third-background-image {
@@ -1342,17 +1342,17 @@ ol {
   display: block;
   width: 100%;
   height: 100%;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio3C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio3C.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .third-background-image.second {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio3lsx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio3lsx.jpg');
 }
 
 .third-background-image.third {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio3ldx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio3ldx.jpg');
 }
 
 .wrapper-menu-portfolio {
@@ -1602,13 +1602,13 @@ ol {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio1C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio1C.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .hero-section-progect.second {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio2C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio2C.jpg');
 }
 
 .hero-section-progect.third {
@@ -1616,15 +1616,15 @@ ol {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio3C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio3C.jpg');
 }
 
 .hero-section-progect.fourth {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio4C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio4C.jpg');
 }
 
 .hero-section-progect.fifth {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
 }
 
 .manzion-wrapper {
@@ -1865,17 +1865,17 @@ ol {
   display: block;
   width: 100%;
   height: 100%;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio4C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio4C.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .fourth-background-image.second {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio4lsx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio4lsx.jpg');
 }
 
 .fourth-background-image.third {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio4ldx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio4ldx.jpg');
 }
 
 .fifth-background-image {
@@ -1887,17 +1887,17 @@ ol {
   display: block;
   width: 100%;
   height: 100%;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .fifth-background-image.second {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5lsx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5lsx.jpg');
 }
 
 .fifth-background-image.third {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5ldx.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5ldx.jpg');
 }
 
 .name-heading {
@@ -2030,7 +2030,7 @@ ol {
   z-index: 9;
   height: 800vh;
   margin-left: 0px;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/parallasse.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/parallasse.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: fixed;
@@ -2058,7 +2058,7 @@ ol {
 
 .container-grid._2 {
   width: 100vw;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/2-1-1.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/2-1-1.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2128,7 +2128,7 @@ ol {
   position: absolute;
   width: 100vw;
   height: 100vh;
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/1-1-1.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/1-1-1.jpg');
   background-size: cover;
 }
 
@@ -2541,7 +2541,7 @@ ol {
 }
 
 .our-services-portfolio._3.team {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/ourteam-2.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/ourteam-2.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: fixed;
@@ -2563,7 +2563,7 @@ ol {
 }
 
 .our-services-portfolio._3.team {
-  background-image: url('http://res.cloudinary.com/dptbzzrw5/ourteam-2.jpg');
+  background-image: url('https://res.cloudinary.com/dptbzzrw5/ourteam-2.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: fixed;
@@ -2793,8 +2793,8 @@ ol {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.26)), to(hsla(0, 0%, 100%, 0.26))), url('http://res.cloudinary.com/dptbzzrw5/heroimage3-1.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.26), hsla(0, 0%, 100%, 0.26)), url('http://res.cloudinary.com/dptbzzrw5/heroimage3-1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.26)), to(hsla(0, 0%, 100%, 0.26))), url('https://res.cloudinary.com/dptbzzrw5/heroimage3-1.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.26), hsla(0, 0%, 100%, 0.26)), url('https://res.cloudinary.com/dptbzzrw5/heroimage3-1.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   opacity: 1;
@@ -3509,7 +3509,7 @@ ol {
 
   .contact-secontion.content-wrap.about {
     height: 400vw;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/parallasse.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/parallasse.jpg');
     background-position: 50% 50%;
     background-size: cover;
     background-attachment: fixed;
@@ -3538,7 +3538,7 @@ ol {
 
   .container-grid._2 {
     margin-left: 0vw;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/2-1-1.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/2-1-1.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -3561,7 +3561,7 @@ ol {
     bottom: 0%;
     z-index: 1;
     width: 100vw;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/1-1-1.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/1-1-1.jpg');
     background-position: 50% 50%;
     background-size: cover;
     background-attachment: scroll;
@@ -3979,7 +3979,7 @@ ol {
 
   .portfolio-image-wrap {
     height: 200px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -3987,7 +3987,7 @@ ol {
   .portfolio-image-wrap.second {
     width: 90%;
     margin-left: auto;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio1lsx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio1lsx.jpg');
   }
 
   .manzion {
@@ -4136,7 +4136,7 @@ ol {
 
   .mobile-image-second {
     height: 200px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio2C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio2C.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -4144,12 +4144,12 @@ ol {
   .mobile-image-second._2 {
     width: 90%;
     margin-left: auto;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio2ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio2ldx.jpg');
   }
 
   .mobile-image-third {
     height: 200px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio3C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio3C.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -4157,12 +4157,12 @@ ol {
   .mobile-image-third._2 {
     width: 90%;
     margin-left: auto;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio3ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio3ldx.jpg');
   }
 
   .mobile-image-fourth {
     height: 200px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio4C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio4C.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -4170,12 +4170,12 @@ ol {
   .mobile-image-fourth._2 {
     width: 90%;
     margin-left: auto;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio4ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio4ldx.jpg');
   }
 
   .mobile-image-fift {
     height: 200px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -4183,7 +4183,7 @@ ol {
   .mobile-image-fift._2 {
     width: 90%;
     margin-left: auto;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5ldx.jpg');
   }
 
   .container-portfolio-heading-secondcopy.auto {
@@ -4886,12 +4886,12 @@ ol {
   }
 
   .portfolio-image-wrap {
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio1C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio1C.jpg');
   }
 
   .portfolio-image-wrap.second {
     height: 400px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio1ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio1ldx.jpg');
   }
 
   .manzion {
@@ -5137,39 +5137,39 @@ ol {
   }
 
   .mobile-image-second {
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio2C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio2C.jpg');
   }
 
   .mobile-image-second._2 {
     height: 400px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio2ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio2ldx.jpg');
   }
 
   .mobile-image-third {
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio3C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio3C.jpg');
   }
 
   .mobile-image-third._2 {
     height: 400px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio3ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio3ldx.jpg');
   }
 
   .mobile-image-fourth {
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio4C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio4C.jpg');
   }
 
   .mobile-image-fourth._2 {
     height: 400px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio4ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio4ldx.jpg');
   }
 
   .mobile-image-fift {
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5C.jpg');
   }
 
   .mobile-image-fift._2 {
     height: 400px;
-    background-image: url('http://res.cloudinary.com/dptbzzrw5/portfolio5ldx.jpg');
+    background-image: url('https://res.cloudinary.com/dptbzzrw5/portfolio5ldx.jpg');
   }
 
   .container-overflow-heading {
